@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca5b1450.css",
+    "main.js": "/static/js/main.893a6d7a.js",
+    "static/media/weatherapp.png": "/static/media/weatherapp.f621ba8ca56c2e34fbce.png",
+    "static/media/nasir.jpg": "/static/media/nasir.e41f45edb801a8ff8bfe.jpg",
+    "static/media/phone.jpg": "/static/media/phone.314e883744c3c60b371b.jpg",
+    "static/media/trello.png": "/static/media/trello.061ded5ce87d3f86b725.png",
+    "static/media/Belonging.jpg": "/static/media/Belonging.7c291b6581633a6279e1.jpg",
+    "static/media/css2.png": "/static/media/css2.36e0c65c3282a46ecb5c.png",
+    "static/media/png-transparent-responsive-web-desbootstrap.png": "/static/media/png-transparent-responsive-web-desbootstrap.933e2f245fc09288c0ca.png",
+    "index.html": "/index.html",
+    "main.ca5b1450.css.map": "/static/css/main.ca5b1450.css.map",
+    "main.893a6d7a.js.map": "/static/js/main.893a6d7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca5b1450.css",
+    "static/js/main.893a6d7a.js"
+  ]
+}
